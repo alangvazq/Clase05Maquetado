@@ -1,0 +1,52 @@
+h1 {
+  color: #005677;
+  font-feature-settings: "cpsp" on;
+  font-family: Times New Roman;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 84.688%; /* 29.641px */
+  text-transform: uppercase;
+  background: #c4c4c4;
+}
+
+h2 {
+  color: #005677;
+  font-feature-settings: "cpsp" on;
+  font-family: Times New Roman;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 84.688%; /* 16.938px */
+  text-transform: uppercase;
+  background: #c4c4c4;
+}
+
+ul{color: #000;
+    font-family: Times New Roman;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 84.688%;}
+
+span{color: #000;
+    font-family: Times New Roman;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 84.688%; /* 12.703px */}
+
+ul.datos-personales span{
+    font-style: italic;
+}
+
+footer{
+    color: #FFF;
+font-family: Times New Roman;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 84.688%; /* 16.938px */
+background: #005677;
+text-align: center;
+}
